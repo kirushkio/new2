@@ -6,7 +6,8 @@
 trigger:
 - main
 
-pool: trail
+pool: 
+   demo
 
 steps:
 - task: Maven@3
